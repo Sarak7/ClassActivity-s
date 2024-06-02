@@ -1,0 +1,15 @@
+Name: Faisal
+Age: 26
+Address: Khobar
+Student ID: 77
+Course: HTML
+Name: Lama
+Age: 28
+Address: Khobar
+Student ID: 17
+Course: Java
+Name: Saud
+Age: 24
+Address: Riyadh
+Student ID: 777
+Course: C#
